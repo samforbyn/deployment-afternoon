@@ -21,6 +21,14 @@ body{
     border-radius: 50%;
 }
 
+#milkbread{
+    height: 20rem;
+    width: 30rem;
+    border-radius: 20px;
+    position: relative;
+    left: 1rem;
+}
+
 .main{
     font-family: Bahnschrift light;
     display: flex;
